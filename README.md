@@ -4,8 +4,6 @@ SafeBite is an intelligent web application that helps users detect the presence 
 🚀 Features
 Upload food product details to get allergen risk prediction
 
-Trained ML model using LeaveOneOut encoding and KNN classification
-
 Flask API backend with a user-friendly Streamlit frontend
 
 Support for various food components: sweeteners, fats/oils, seasoning, and more
